@@ -1,4 +1,4 @@
-### JSON
+### JSON [Javascript Object Notation]
 Reading json data using java script
 
 ## json have different data type 
@@ -17,8 +17,8 @@ object
 	{"key": "value"}
 
 boolean 
-	true 
-	false 
+- true 
+- false 
 
 
 
