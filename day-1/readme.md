@@ -10,6 +10,7 @@ Reading json data using java script
 - array 
 
 
+
 array 
 	["item1","item2","item3"]
 
